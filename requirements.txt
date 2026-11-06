@@ -1,0 +1,14 @@
+numpy
+matplotlib
+tensorflow
+pandas
+keras
+tabulate
+bokeh
+plotly
+ipywidgets
+anywidget
+nbformat>=4.2.0
+gymnasium[box2d]
+Pillow
+imageio
