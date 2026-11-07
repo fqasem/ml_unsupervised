@@ -32,6 +32,4 @@ Thumbs.db
 *.hdf5
 *.ckpt
 
-# Local notebooks outputs
-# Keep source notebooks tracked, ignore generated output directories if needed.
-images/
+
